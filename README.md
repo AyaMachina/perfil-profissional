@@ -1,6 +1,6 @@
 # Ayanna Persan (her/her)
 Olá, meu nome é Ayanna<br>Curso informática no terceiro ano do Ensino Médio<br>
-E futura programadora<br>Ainda não estou trabalhando mas pertendo<br>
+E futura programadora<br>Ainda não estou trabalhando mas pretendo<br>
 
 
 ## Um pouco sobre mim: 
